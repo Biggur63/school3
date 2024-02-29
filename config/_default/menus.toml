@@ -1,0 +1,40 @@
+
+# Main menu
+[[main]]
+    name       = "Обучение"
+    identifier = "menu.home"
+    url        = "/"
+    weight     = 1
+
+[[main]]
+    name       = "Об авторе"
+    identifier = "menu.blog"
+    url        = "/blog/"
+    weight     = 3
+
+[[main]]
+    name       = "Насмотренность"
+    identifier = "menu.faq"
+    url        = "/faq/"
+    weight     = 2
+
+[[main]]
+    name       = "Контакты"
+    identifier = "contact"
+    url        = "/contact/"
+    weight     = 4
+
+
+# Top bar social links menu
+
+[[topbar]]
+    weight = 1
+    name = "Phone"
+    url = "tel:+7 919 874 20 24"
+    pre = "<i class='fas fa-2x fa-phone'></i>"
+
+# [[topbar]]
+#    weight = 5
+#    name = "Email"
+#    url = "mailto:gurfoto@gmail.com"
+#    pre = "<i class='fas fa-2x fa-envelope'></i>"
