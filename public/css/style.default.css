@@ -1,6 +1,7 @@
 /* Themed colors */
 :root {
-  --primary-accent: #38a7bb;
+  /* --primary-accent: #38a7bb; */
+  --primary-accent: #2b7886;
   --navbar-border-top: #20616d;
   --button-border: #2a7d8c;
   --link-focus: #267280;
@@ -9,6 +10,21 @@
   --link-hover-bg: #2c8494;
   --navbar-focus: #80cbd9;
 }
+
+img {
+  display: block !important;
+  max-width: 100% !important;
+}
+
+/* Стиль для .svg  */
+.inline-svg {
+  display: inline-block;
+  height: 1.15rem;
+  width: 1.15rem;
+  top: 0.15rem;
+  position: relative;
+}
+
 
 .clearfix:before,
 .clearfix:after,
@@ -249,7 +265,7 @@ ul.list-style-none {
 }
 #top p {
   margin: 0;
-  font-size: 12px;
+  font-size: 32px; /* Изменено с 12 на 32 */
 }
 #top .social {
   float: right;
@@ -1784,7 +1800,7 @@ fieldset[disabled] .btn-template-primary.active {
   background: #fff;
 }
 .bar.background-image-fixed-1 {
-  background: url('../img/fixed-background-1.jpg') center top no-repeat;
+  background: url('../img/fixed-background-1.jpg') left top no-repeat;
   background-attachment: fixed;
   background-size: cover;
 }
@@ -3176,9 +3192,12 @@ fieldset[disabled] .navbar-default .btn-link:focus {
 /* scaffolding */
 body {
   font-family: "Roboto", Helvetica, Arial, sans-serif;
-  font-size: 14px;
-  line-height: 1.42857143;
-  color: #555555;
+  /* font-size: 14px; */
+  font-size: 16px;
+  /* line-height: 1.42857143; */
+  line-height: 1.6;
+  /* color: #555555; */
+  color: #444;
 }
 a {
   color: var(--primary-accent);

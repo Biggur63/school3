@@ -6,7 +6,7 @@
 #    defaultDescription = "Site template made by Devcows using Hugo"
 
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
-    style = "red"
+    style = "default"
 
     # Since this template is static, the contact form uses www.formspree.io as a
     # proxy. The form makes a POST request to their servers to send the actual
@@ -22,8 +22,8 @@
     # - you're done. Happy mailing!
     #
     # Enable the contact form by entering your Formspree.io endpoint url
-    formspree_action = "https://formspree.io/sample/of/endpoint"
-    contact_form_ajax = false
+       formspree_action = "https://formspree.io/sample/of/endpoint"
+       contact_form_ajax = false
 
     # Formspree form supports Google reCAPTCHA Key (type v2).
     # If you use this feature, you should enable reCAPTCHA feature in the Formspree dashboard.
@@ -39,8 +39,8 @@
     #   5. change `enableRecaptchaInContactForm` is to true
     #   6. enter site key into `googleRecaptchaKey` to enable a recaptcha widget in your page.
     #
-    enableRecaptchaInContactForm = false
-    googleRecaptchaKey = "site_key_for_google_recaptcha"
+        enableRecaptchaInContactForm = false
+        googleRecaptchaKey = "site_key_for_google_recaptcha"
 
     about_us = "<p>Фотошкола в Ростове ─ проект фотографического агентства GurFoto.Ru.</p>"
     copyright = "Copyright GurFoto.Ru (c) 2013 - 2024."
@@ -59,14 +59,14 @@
     address = """<p><strong>GurFoto.Ru</strong>
         <br>Россия
         <br>Ростов-на-Дону
-        <br>ул. Евдокимова 37
+        <br>+7 919 874 20 24 (тел./WhatsApp)
       </p>
       """
 
       # Enable or disable top bar with social icons
 [topbar]
     enable = true
-    text = """<p class="hidden-sm hidden-xs">+7 919 874 20 24 или gurfoto@gmail.com</p>
+    text = """<p class="hidden-sm hidden-xs">+7 919 874 20 24</p>
       <p class="hidden-md hidden-lg"><a href="tel:+7 919 874 20 24" data-animate-hover="pulse"><i class="fas fa-phone"></i></a>
       <a href="mailto:gurfoto@gmail.com" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
       </p>
@@ -119,7 +119,7 @@
     icon = "far fa-file-alt"
     title = "Школа фотографии в Ростове"
     subtitle = "Индивидуальный учебный план для каждого студента"
-    link_url = "#"
+    link_url = "/training"
     link_text = "Подробней"
 
 [clients]
@@ -132,8 +132,8 @@
 
 [recent_posts]
     enable = true
-    title = "Эффективность методики"
-    subtitle = "Индивидуальный учебный план, с учетом вашего уровня подготовки. Акцент на практику. Бесплатная консультационная поддержка без ограничения продолжительности."
+    title = "Эффективность курса"
+    subtitle = "Учебный план формируется для каждого студента индивидуально, с учетом уровня его подготовки. Акцент обучения делается на практических заданиях. Бесплатная консультационная поддержка без ограничения продолжительности."
     hide_summary = false
 
 [footer.recent_posts]

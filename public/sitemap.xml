@@ -8,6 +8,34 @@
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url><url>
+    <loc>http://localhost:1313/training/</loc>
+  </url><url>
+    <loc>http://localhost:1313/contact/</loc>
+  </url><url>
+    <loc>http://localhost:1313/invisibility/</loc>
+  </url><url>
+    <loc>http://localhost:1313/aboutauthor/</loc>
+  </url><url>
+    <loc>http://localhost:1313/imgeditor/</loc>
+  </url><url>
+    <loc>http://localhost:1313/interiorphoto/</loc>
+  </url><url>
+    <loc>http://localhost:1313/mobilephoto/</loc>
+  </url><url>
+    <loc>http://localhost:1313/objectphoto/</loc>
+  </url><url>
+    <loc>http://localhost:1313/pano/</loc>
+  </url><url>
+    <loc>http://localhost:1313/photostudio/</loc>
+  </url><url>
+    <loc>http://localhost:1313/plener/</loc>
+  </url><url>
+    <loc>http://localhost:1313/posing/</loc>
+  </url><url>
+    <loc>http://localhost:1313/technic/</loc>
+  </url><url>
+    <loc>http://localhost:1313/%D1%81omposition/</loc>
+  </url><url>
     <loc>http://localhost:1313/</loc>
   </url>
 </urlset>

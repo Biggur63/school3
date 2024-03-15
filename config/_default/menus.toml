@@ -3,20 +3,21 @@
 [[main]]
     name       = "Обучение"
     identifier = "menu.home"
-    url        = "/"
+    url        = "/training/"
     weight     = 1
 
 [[main]]
-    name       = "Об авторе"
-    identifier = "menu.blog"
-    url        = "/blog/"
-    weight     = 3
+    name       = "Насмотренность"
+    identifier = "menu.invisibility"
+    url        = "/invisibility/"
+    weight     = 2
+
 
 [[main]]
-    name       = "Насмотренность"
-    identifier = "menu.faq"
-    url        = "/faq/"
-    weight     = 2
+    name       = "Об авторе"
+    identifier = "menu.aboutauthor"
+    url        = "/aboutauthor/"
+    weight     = 3
 
 [[main]]
     name       = "Контакты"
@@ -34,7 +35,7 @@
     pre = "<i class='fas fa-2x fa-phone'></i>"
 
 # [[topbar]]
-#    weight = 5
+#    weight = 2
 #    name = "Email"
 #    url = "mailto:gurfoto@gmail.com"
 #    pre = "<i class='fas fa-2x fa-envelope'></i>"
