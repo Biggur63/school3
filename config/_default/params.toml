@@ -22,8 +22,8 @@
     # - you're done. Happy mailing!
     #
     # Enable the contact form by entering your Formspree.io endpoint url
-       formspree_action = "https://formspree.io/sample/of/endpoint"
-       contact_form_ajax = false
+    #  formspree_action = "https://formspree.io/sample/of/endpoint"
+    #  contact_form_ajax = false
 
     # Formspree form supports Google reCAPTCHA Key (type v2).
     # If you use this feature, you should enable reCAPTCHA feature in the Formspree dashboard.
@@ -66,11 +66,12 @@
       # Enable or disable top bar with social icons
 [topbar]
     enable = true
-    text = """<p class="hidden-sm hidden-xs">+7 919 874 20 24</p>
-      <p class="hidden-md hidden-lg"><a href="tel:+7 919 874 20 24" data-animate-hover="pulse"><i class="fas fa-phone"></i></a>
-      <a href="mailto:gurfoto@gmail.com" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
-      </p>
-      """
+    text = """<p class="hidden-xs">+7 919 874 20 24</p>"""
+#    text = """<p class="hidden-sm hidden-xs">+7 919 874 20 24</p>
+#      <p class="hidden-md hidden-lg"><a href="tel:+7 919 874 20 24" data-animate-hover="pulse"><i class="fas fa-phone"></i></a>
+#      <a href="mailto:gurfoto@gmail.com" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
+#      </p>
+#      """
 
 # Enable and disable widgets for the right sidebar
 [widgets]

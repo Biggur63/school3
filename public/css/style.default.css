@@ -11,6 +11,12 @@
   --navbar-focus: #80cbd9;
 }
 
+/* Номер телефона в TopBar */
+topbar1 {
+  width: 41.66666667%;
+  font-size: 6px;
+}
+
 img {
   display: block !important;
   max-width: 100% !important;
