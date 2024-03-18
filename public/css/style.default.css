@@ -11,11 +11,10 @@
   --navbar-focus: #80cbd9;
 }
 
-/* Номер телефона в TopBar */
-topbar1 {
-  width: 41.66666667%;
-  font-size: 6px;
-}
+/* Номер телефона в TopBar
+.hidden-xs {
+  display: inline-block;
+} */
 
 img {
   display: block !important;
@@ -2550,7 +2549,7 @@ fieldset[disabled] .btn-template-primary.active {
 #footer {
   background: #555555;
   padding: 50px 0;
-  color: #999999;
+  color: #cacaca;
 }
 #footer h1,
 #footer h2,
