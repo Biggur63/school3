@@ -119,6 +119,9 @@ div.section {
 .mb-small {
   margin-bottom: 20px !important;
 }
+header.header {
+  box-shadow: 0px 0px 20px var(--primary-accent)
+}
 .heading {
   margin-bottom: 40px;
 }
@@ -265,65 +268,22 @@ ul.list-style-none {
 }
 #top {
   background: #555555;
-  color: #eeeeee;
+  color: #ddd;
   padding: 10px 0;
 }
 #top p {
   margin: 0;
   font-size: 32px; /* Изменено с 12 на 32 */
 }
-#top .social {
-  float: right;
-  text-align: right;
+
+#top a {
+  color: inherit;  
 }
-#top .social a {
-  color: #999999;
-  display: inline-block;
-  width: 24px;
-  height: 24px;
-  border-radius: 12px;
-  line-height: 24px;
-  font-size: 12px;
-  text-align: center;
-}
-#top .social a:hover {
+
+#top a:hover {
   color: #fff;
-  background: var(--primary-accent);
-  -webkit-transform: scale(1.1);
-  transform: scale(1.1);
 }
-#top .social a:hover.facebook {
-  background-color: #4460ae;
-}
-#top .social a:hover.gplus {
-  background-color: #c21f25;
-}
-#top .social a:hover.twitter {
-  background-color: #3cf;
-}
-#top .social a:hover.instagram {
-  background-color: #cd4378;
-}
-#top .social a:hover.email {
-  background-color: #4a7f45;
-}
-#top .login {
-  float: right;
-}
-#top .login a {
-  font-size: 12px;
-  color: #eeeeee;
-  margin-right: 15px;
-  text-decoration: none;
-  text-transform: uppercase;
-  font-weight: 700;
-  letter-spacing: 0.10em;
-}
-@media (max-width: 767px) {
-  #top .login {
-    float: left;
-  }
-}
+
 #top.light {
   background: #fff;
   color: #999999;
@@ -1225,23 +1185,20 @@ fieldset[disabled] .btn-template-primary.active {
 .home-carousel ul {
   color: #fff;
 }
-.home-carousel h1 {
+.home-carousel h1,
+.home-carousel h2 {
   font-weight: 700;
   text-transform: uppercase;
   font-size: 46px;
   letter-spacing: 0.08em;
 }
 @media (max-width: 991px) {
-  .home-carousel h1 {
+  .home-carousel h1,
+  .home-carousel h2 {
     font-size: 36px;
   }
 }
-.home-carousel h2 {
-  font-weight: 700;
-  text-transform: uppercase;
-  font-size: 40px;
-  letter-spacing: 0.08em;
-}
+
 .home-carousel ul,
 .home-carousel p {
   font-size: 18px;
@@ -2549,7 +2506,7 @@ fieldset[disabled] .btn-template-primary.active {
 #footer {
   background: #555555;
   padding: 50px 0;
-  color: #cacaca;
+  color: #e0e0e0;
 }
 #footer h1,
 #footer h2,
