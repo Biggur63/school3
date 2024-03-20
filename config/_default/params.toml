@@ -118,7 +118,7 @@
 [see_more]
     enable = true
     icon = "far fa-file-alt"
-    title = "Школа фотографии в Ростове"
+    title = "Информация об обучении"
     subtitle = "Для получения полной информации звоните **+7 919 874 20 24**"
     link_url = "/training"
     link_text = "Подробней"

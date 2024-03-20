@@ -1,10 +1,7 @@
 weight: 3
-title: "Акценты"
+title: "Увлечения"
 description: >
-  <ul class="list-style-none">
-    <li>Вы можете выбрать</li>
-    <li>направления в фотографии,</li>
-    <li>которыми планируете заняться и</li>
-    <li>включить их в учебный план</li>
-  </ul>
+  <div class="list-style-none">
+    <p>Вы можете выбрать жанры фотографии, которыми планируете заниматься</p>
+  </div>
 image: "img/carousel/template-easy-customize.png"

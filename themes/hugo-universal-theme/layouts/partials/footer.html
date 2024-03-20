@@ -3,7 +3,7 @@
 
         {{ if isset .Site.Params "about_us" }}
         <div class="col-md-4 col-sm-6">
-            <h4>{{ i18n "aboutUs" }}</h4>
+            <h2>{{ i18n "aboutUs" }}</h2>
 
             {{ .Site.Params.about_us | safeHTML }}
 
@@ -46,7 +46,7 @@
         {{ if isset .Site.Params "address" }}
         <div class="col-md-4 col-sm-6">
 
-          <h4>{{ i18n "contactTitle" }}</h4>
+          <h2>{{ i18n "contactTitle" }}</h2>
 
             {{ .Site.Params.address | safeHTML }}
 

@@ -1,8 +1,8 @@
 weight: 4
 title: "Поддержка"
 description: >
-  <ul class="list-style-none">
-    <li>После завершения курса, для вас открыта бесплатная линия для консультаций</li>
-  </ul>
+  <p class="list-style-none">
+    После завершения курса, для вас открыта бесплатная линия для консультаций
+  </p>
 image: "img/carousel/template-easy-code.png"
 # href: "https://devcows.github.io/hugo-universal-theme/"

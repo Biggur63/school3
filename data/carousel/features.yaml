@@ -1,8 +1,8 @@
 weight: 2
 title: "Учебный план"
 description: >
-  <ul class="list-style-none">
-     <li>сформированный индивидуально для вас, соответствует уровню подготовки и поставленным целям</li>
-   </ul>
+  <p class="list-style-none">
+     формируется специально для вас, с учетом ваших интересов
+   </p>
 image: "img/carousel/template-mac.png"
 href: "faq"

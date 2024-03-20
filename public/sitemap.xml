@@ -26,15 +26,15 @@
   </url><url>
     <loc>http://localhost:1313/pano/</loc>
   </url><url>
-    <loc>http://localhost:1313/photostudio/</loc>
-  </url><url>
-    <loc>http://localhost:1313/plener/</loc>
-  </url><url>
     <loc>http://localhost:1313/posing/</loc>
+  </url><url>
+    <loc>http://localhost:1313/composition/</loc>
   </url><url>
     <loc>http://localhost:1313/technic/</loc>
   </url><url>
-    <loc>http://localhost:1313/%D1%81omposition/</loc>
+    <loc>http://localhost:1313/photostudio/</loc>
+  </url><url>
+    <loc>http://localhost:1313/plener/</loc>
   </url><url>
     <loc>http://localhost:1313/</loc>
   </url>

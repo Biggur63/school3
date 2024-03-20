@@ -1,4 +1,11 @@
 weight: 1
-title: "Школа фотографии в Ростове"
-description: "<p>Индивидуальное обучение начинающих фотографов</p>"
+title: "Преимущества"
+description: >
+  <ul class="list-style-none">
+    <li>индивидуальный учебный план</li>
+    <li>произвольный выбор специализации</li>
+    <li>консультационная поддержка</li>
+    <li>умеренная стоимость обучения</li>
+  </ul>
+            
 image: "img/carousel/template-homepage.png"
