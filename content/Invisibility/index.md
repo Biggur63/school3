@@ -10,13 +10,17 @@ title: "Мастера фотографии"
 
 ---
 
-1. [**Slim Aarons** *(29.10.1916─29.05.2006)*](https://yandex.ru/images/search?lr=213&text=%22Slim%20Aarons%20%D1%84%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%22)
-1. [**Berenice Abbott** *(17.06.1898─9.12.1991)*](https://yandex.ru/images/search?lr=213&text=%22Berenice%20Abbott%20%D1%84%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%22)  
-1. [**Ansel Adams** *(20.02.1902─22.04.1994)*](https://yandex.ru/images/search?lr=213&text=%22Ansel%20Adams%20%D1%84%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%22)  
-1. [**Robert Adams** *(8.05.1937─ )*](https://yandex.ru/images/search?lr=213&text=%22Robert%20Adams%20%D1%84%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%22)  
-1. [**Nikolai Andreev** (Николай Андреев) *(1882─1947)*](https://yandex.ru/images/search?lr=213&text=%22%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9%20%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%2B%D1%84%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%22)  
-1. [**Manuel Alvarez Bravo** *(4.02.1902─19.10.2002)*](https://yandex.ru/images/search?lr=213&text=%22Manuel%20Alvarez%20Bravo%20%D1%84%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%22)  
-1. [**Nobuyoshi Araki** *(25.05.1940─)*](https://yandex.ru/images/search?lr=213&text=%22Nobuyoshi%20Araki%20photographer%22)  
+{{< masters list="list-of-masters" caption="Список выдающихся фотографов" >}}
+
+---
+
+1. [* **Slim Aarons** *(29.10.1916─29.05.2006)*](https://yandex.ru/images/search?lr=213&text=%22Slim%20Aarons%20%D1%84%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%22)
+1. [* **Berenice Abbott** *(17.06.1898─9.12.1991)*](https://yandex.ru/images/search?lr=213&text=%22Berenice%20Abbott%20%D1%84%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%22)  
+1. [* **Ansel Adams** *(20.02.1902─22.04.1994)*](https://yandex.ru/images/search?lr=213&text=%22Ansel%20Adams%20%D1%84%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%22)  
+1. [* **Robert Adams** *(8.05.1937─ )*](https://yandex.ru/images/search?lr=213&text=%22Robert%20Adams%20%D1%84%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%22)  
+1. [* **Nikolai Andreev** (Николай Андреев) *(1882─1947)*](https://yandex.ru/images/search?lr=213&text=%22%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9%20%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%2B%D1%84%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%22)  
+1. [* **Manuel Alvarez Bravo** *(4.02.1902─19.10.2002)*](https://yandex.ru/images/search?lr=213&text=%22Manuel%20Alvarez%20Bravo%20%D1%84%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%22)  
+1. [* **Nobuyoshi Araki** *(25.05.1940─)*](https://yandex.ru/images/search?lr=213&text=%22Nobuyoshi%20Araki%20photographer%22)  
 1. [**Diane Arbus** *(14.03.1923─27.07.1971)*](https://yandex.ru/images/search?lr=213&text=%22Diane%20Arbus%20photographer%22)
 1. [**Jean-Eugene-Auguste Atget** *(12.02.1857─4.08.1927)*](https://yandex.ru/images/search?lr=213&suggest_reqid=195529720169519122955268925140480&text=%22Jean-Eugene-Auguste%20Atget%20photographer%22)
 1. [**Richard Avedon** *(15.05.1923─1.10.2004)*](https://yandex.ru/images/search?lr=213&text=%22Richard%20Avedon%20photographer%22)
@@ -80,8 +84,8 @@ title: "Мастера фотографии"
 1. [**Frantisek Ferdinand Drtikol** *(3.03.1883─13.01.1961)*](https://yandex.ru/images/search?lr=213&text=%22Frantisek%20Ferdinand%20Drtikol%2Bphotographer%22)
 1. [**David Douglas Duncan** *(23.01.1916─7.06.2018)*](https://yandex.ru/images/search?lr=213&text=%22David%20Douglas%20Duncan%2Bphotographer%22)
 1. [**Brian Duffy** *(15.06.1933─31.05.2010)*](https://yandex.ru/images/search?text=%D0%91%D1%80%D0%B0%D0%B9%D0%B0%D0%BD%20%D0%94%D0%B0%D1%84%D1%84%D0%B8&stype=image&lr=213&source=wiz)
-1. [**Tony Duran** *(─)*](https://yandex.ru/images/search?lr=213&text=%D0%A2%D0%BE%D0%BD%D0%B8%20%D0%94%D1%8E%D1%80%D0%B0%D0%BD%20photograph)
-1. [**Andrew Eccles** *(─)*](https://yandex.ru/images/search?lr=213&text=andrew%20eccles%20photograph)
+1. [* **Tony Duran** *(─)*](https://yandex.ru/images/search?lr=213&text=%D0%A2%D0%BE%D0%BD%D0%B8%20%D0%94%D1%8E%D1%80%D0%B0%D0%BD%20photograph)
+1. [* **Andrew Eccles** *(─)*](https://yandex.ru/images/search?lr=213&text=andrew%20eccles%20photograph)
 1. [**Jose Ortiz Echague** *(21.08.1886─7.09.1980)*](https://yandex.ru/images/search?lr=213&text=%22Jose%20Ortiz%20Echague%2Bphotographer%22)
 1. [**Harold Eugene Edgerton** *(6.04.1903─4.01.1990)*](https://yandex.ru/images/search?lr=213&text=%22Harold%20Eugene%20Edgerton%2Bphotographer%22)
 1. [**William Eggleston** *(27.07.1939─)*](https://yandex.ru/images/search?lr=213&text=%22William%20Eggleston%2Bphotographer%22)
@@ -149,7 +153,7 @@ title: "Мастера фотографии"
 1. [**Josef Koudelka** *(10.01.1938─)*](https://yandex.ru/images/search?lr=213&text=%22Josef%20Koudelka%2Bphotographer%22)
 1. [**Germaine Krull** *(29.11.1897─31.07.1985)*](https://yandex.ru/images/search?lr=213&text=%22Germaine%20Krull%2Bphotographer%22)
 1. [**David LaChapelle** *(1963─)*](https://yandex.ru/images/search?lr=213&text=%22David%20LaChapelle%2Bphotographer%22)
-1. [**Inez van Lamsweerde & Vinoodh Matadin** *(25.09.1963─) (29.09.1961─)*](https://yandex.ru/images/search?lr=213&text=%22Inez%2Bvan%2BLamsweerde%2B%26%2BVinoodh%2BMatadin%2Bphotographer%22)
+1. [* **Inez van Lamsweerde & Vinoodh Matadin** *(25.09.1963─) (29.09.1961─)*](https://yandex.ru/images/search?lr=213&text=%22Inez%2Bvan%2BLamsweerde%2B%26%2BVinoodh%2BMatadin%2Bphotographer%22)
 1. [**Dorothea Lange** *(25.05.1895─11.10.1965)*](https://yandex.ru/images/search?lr=213&text=%22Dorothea%20Lange%2Bphotographer%22)
 1. [**Frans Lanting** *(13.07.1951─)*](https://yandex.ru/images/search?lr=213&text=%22Frans%20Lanting%2Bphotographer%22)
 1. [**Sergio Larrain** *(1931─7.02.2012)*](https://yandex.ru/images/search?lr=213&text=%22Sergio%20Larrain%2Bphotographer%22)
@@ -161,7 +165,7 @@ title: "Мастера фотографии"
 1. [**Helen Levitt** *(31.08.1913─29.03.2009)*](https://yandex.ru/images/search?lr=213&text=%22Helen%20Levitt%2Bphotographer%22)
 1. [**Peter Lindbergh** *(23.11.1944─3.09.2019)*](https://yandex.ru/images/search?lr=213&text=%22Peter%20Lindbergh%2Bphotographer%22)
 1. [**Ogle Winston Link** *(16.12.1914─30.01.2001)*](https://yandex.ru/images/search?lr=213&text=%22Ogle%2BWinston%2BLink%2Bphotographer%22)
-1. [**El Lissitzky** (Лазарь Маркович Лиситский) *(23.11.1890─30.12.1941)*](https://yandex.ru/images/search?lr=213&text=%22Richard%20Avedon%20photographer%22)
+1. [* **El Lissitzky** (Лазарь Маркович Лиситский) *(23.11.1890─30.12.1941)*](https://yandex.ru/images/search?lr=213&text=%22Richard%20Avedon%20photographer%22)
 1. [**Herbert List** *(7.10.1903─4.04.1975)*](https://yandex.ru/images/search?lr=213&text=%22Herbert%20List%2Bphotographer%22)
 1. [**Sergey Lobovikov** (Сергей Лобовиков) *(9.06.1870─27.11.1941)*](https://yandex.ru/images/search?lr=213&text=%22%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9%20%D0%9B%D0%BE%D0%B1%D0%BE%D0%B2%D0%B8%D0%BA%D0%BE%D0%B2%2B%D1%84%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%22)
 1. [**David Loftus** *(1963─)*](https://yandex.ru/images/search?text=%D0%94%D1%8D%D0%B2%D0%B8%D0%B4%20%D0%9B%D0%BE%D1%84%D1%82%D1%83%D1%81&stype=image&lr=213&source=wiz)
@@ -286,7 +290,7 @@ title: "Мастера фотографии"
 1. [**Joel-Peter Witkin** *(13.09.1939─)*](https://yandex.ru/images/search?lr=213&text=%22Joel-Peter%20Witkin%2Bphotographer%22)
 1. [**Paul Heinrich August Wolff** *(19.02.1887─10.04.1951)*](https://yandex.ru/images/search?lr=213&text=%22Paul%20Wolff%2Bphotographer%22)
 1. [**Yury Yeremin** (Юрий Еремин) *(1881─1948)*](https://yandex.ru/images/search?lr=213&text=%22%D0%AE%D1%80%D0%B8%D0%B9%2B%D0%95%D1%80%D0%B5%D0%BC%D0%B8%D0%BD%2B%D1%84%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%22)
-1. [**Yva** (Else Ernestine Simon geb. Neulaeder) *(26.01.1900─1942 Majdanek concentration camp)*](https://yandex.ru/images/search?lr=213&text=%22Else%20Ernestine%20Simon%20geb.%20Neulaeder%2Bphotographer%22)
+1. [* **Yva** (Else Ernestine Simon geb. Neulaeder) *(26.01.1900─1942 Majdanek concentration camp)*](https://yandex.ru/images/search?lr=213&text=%22Else%20Ernestine%20Simon%20geb.%20Neulaeder%2Bphotographer%22)
 
 ---
 **[Вернуться...](/)**

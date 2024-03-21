@@ -3563,3 +3563,66 @@ a.list-group-item.active > .badge,
   left: 15px;
   right: 15px;
 }
+
+/* List of masters */
+
+table.masters-list {
+  width: 100%;
+  border-collapse: collapse;
+  background: #20616d18;
+}
+
+table.masters-list :is(caption) {
+  padding: 1rem;
+  background: var(--primary-accent);
+  color: #fff;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: .08em;
+  text-wrap: balance;
+}
+
+table.masters-list :is(th, td) {
+  padding: .8rem 1rem;
+  line-height: 1.2;
+}
+
+table.masters-list :is(th) {
+  background: rgb(0 0 0 / 18%);
+}
+
+table.masters-list :is(tr):nth-of-type(odd) {
+  background: rgb(0 0 0 / 8%);
+}
+
+table.masters-list :is(td):first-child {
+  font-weight: 500;
+}
+
+@media (width < 650px) {
+  table.masters-list :is(th) {
+    display: none;
+  }
+
+  table.masters-list :is(td) {
+    display: grid;
+    grid-template-columns: 18ch 1fr;
+    gap: .5rem;
+    padding-block: .4rem;
+  }
+  
+  table.masters-list :is(td):before {
+    content: attr(data-label) ": ";
+    place-self: center start;
+    font-weight: 400;
+  }
+  
+  table.masters-list :is(td):first-child {
+    padding-block-start: 1rem;
+    font-weight: 600;
+  }
+  
+  table.masters-list :is(td):last-child {
+    padding-block-end: 1rem;
+  }
+}

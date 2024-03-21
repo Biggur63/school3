@@ -1,0 +1,44 @@
+{{- with .Get "list" }}
+    {{- $list := index site.Data . }}
+    {{- $th := index $list 0 }}
+    {{- $extendedList := slice }}
+    {{- range $i, $p := after 1 ($list ) }}
+        {{- $splitedNmaes := split $p.name " " }}
+        {{- $lastName := index $splitedNmaes (sub (len $splitedNmaes) 1) }}
+        {{- $updatedP := merge $p (dict "lastName" $lastName) }}
+        {{- $extendedList = $extendedList | append $updatedP }}
+    {{- end }}
+<table class="masters-list">
+    {{ with $.Get "caption" }}<caption>{{ . }}</caption>{{ end }}
+    <tr>
+        <th>{{ $th.name }}</th>
+        <th>{{ $th.born }}</th>
+        <th>{{ $th.link }}</th>
+    </tr>
+
+    {{- range $i, $p := sort $extendedList "lastName" "asc" }}
+    <tr>
+        <td data-label="{{ $th.name }}">{{ $p.name }}{{- with $p.name2nd }}<br>{{ . }}{{ end }}</td>
+        <td data-label="{{ $th.born }}">
+            {{- if $p.died -}}
+                {{ $p.born }}–{{ $p.died }}
+            {{- else -}}
+                род. {{ $p.born }}
+            {{- end -}}
+
+            {{- if $p.born2nd -}}
+                <br>
+                {{- if $p.died2nd }}
+                   {{ $p.born2nd }}–{{ $p.died2nd }}
+                {{- else -}}
+                    род. {{ $p.born2nd }}
+                {{- end }}
+            {{- end -}}
+        </td>
+        <td data-label="{{ $th.link }}">
+            <a href="{{ $p.link }}" target="_blank" rel="noopener noreferrer">Галерея ⤴</a>
+        </td>
+    </tr>
+    {{- end }}
+</table>
+{{ end }}
