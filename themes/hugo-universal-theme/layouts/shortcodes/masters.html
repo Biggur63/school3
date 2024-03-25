@@ -11,7 +11,7 @@
 <table class="masters-list">
     {{ with $.Get "caption" }}<caption>{{ . }}</caption>{{ end }}
     <tr>
-        <th>№</th>
+        <th>{{ $th.number }}</th>
         <th>{{ $th.name }}</th>
         <th>{{ $th.born }}</th>
         <th>{{ $th.link }}</th>
@@ -20,7 +20,7 @@
     {{- range $i, $p := sort $extendedList "lastName" "asc" }}
     <tr>
         <td>{{ add $i 1 }}</td>
-        <td data-label="{{ $th.name }}">{{ $p.name }}{{- with $p.name2nd }}<br>{{ . }}{{ end }}</td>
+        <td data-label="{{ add $i 1 }}">{{ $p.name }}{{- with $p.name2nd }}<br>{{ . }}{{ end }}</td>
         <td data-label="{{ $th.born }}">
             {{- if $p.died -}}
                 {{ $p.born }}–{{ $p.died }}

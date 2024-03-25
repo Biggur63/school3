@@ -3596,7 +3596,7 @@ table.masters-list :is(tr):nth-of-type(odd) {
 }
 
 table.masters-list :is(td):first-child {
-  font-weight: 500;
+  /* font-weight: 500; */
 }
 
 @media (width < 650px) {
@@ -3606,7 +3606,7 @@ table.masters-list :is(td):first-child {
 
   table.masters-list :is(td) {
     display: grid;
-    grid-template-columns: 18ch 1fr;
+    grid-template-columns: 12ch 1fr;
     gap: .5rem;
     padding-block: .4rem;
   }
@@ -3618,11 +3618,21 @@ table.masters-list :is(td):first-child {
   }
   
   table.masters-list :is(td):first-child {
-    padding-block-start: 1rem;
+    display: none;
+   
+  }
+
+  table.masters-list :is(td):nth-child(2) {
+    padding-block-start: 1.2rem;
     font-weight: 600;
   }
   
+  table.masters-list :is(td):nth-child(2):before {
+    content: attr(data-label) ". ";
+    font-weight: 600;
+  }
+
   table.masters-list :is(td):last-child {
-    padding-block-end: 1rem;
+    padding-block-end: 1.2rem;
   }
 }
