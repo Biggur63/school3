@@ -3,7 +3,7 @@
      author = "BigGur.Ru"
      defaultKeywords = ["photoschool", "фотошкола", "школа фотографии", "мастера фотографии"]
 #    mainSections = ["blog"]
-     defaultDescription = "Фотошкола в Ростове. Индивидуальное обучение"
+     defaultDescription = "Фотошкола в Ростове. Индивидуальное обучение. Онлайн поддержка после завершения курса"
 
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
     style = "default"

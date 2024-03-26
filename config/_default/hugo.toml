@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'ru'
-title = 'Фотошкола в Ростове'
+title = 'Фотошкола в Ростове. Индивидуальное обучение'
 
 theme = "hugo-universal-theme"
 
