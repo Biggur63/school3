@@ -74,7 +74,7 @@
   translation: "Error 404: Page not found"
 
 - id: 404Message
-  translation: "We are sorry – this page is not here anymore"
+  translation: "Извините – такая страница не существует"
 
 - id: 404NavHome
   translation: "Перейти на главную"
