@@ -2,7 +2,8 @@ weight: 5
 title: "Стоимость обучения"
 description: >
   <ul class="list-style-none">
-    <li>зависит от набора выбранных учебных модулей. Вся информация на странице "Обучение"</li>
+    <li>зависит от набора выбранных вами учебных модулей и соответствует стоимости обучения в группе </li>
+    <li>Вся информация на странице "Обучение"</li>
   </ul>
 image: "img/carousel/template-easy-code1.png"
 # href: "https://devcows.github.io/hugo-universal-theme/"
