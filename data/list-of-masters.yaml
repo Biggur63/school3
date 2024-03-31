@@ -83,11 +83,6 @@
     died: "1.10.2004"
     link: "https://yandex.ru/images/search?lr=213&text=David%20Bayley%20photographer"
 
--   name: "Cecil Beaton"
-    born: "1904"
-    died: "1980"
-    link: "https://yandex.ru/images/search?stype=image&lr=213&nomisspell=1&text=%D1%81%D0%B5%D1%81%D0%B8%D0%BB%20%D0%B1%D0%B8%D1%82%D0%BE%D0%BD%20%D1%84%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%B8&source=related-query-serp"
-
 -   name: "Dmitry Baltermants"
     name2nd: "(Дмитрий Бальтерманц)"
     born: "13.05.1912"
@@ -305,11 +300,6 @@
     born: "8.05.1912"
     died: "25.05.1972"
     link: "https://yandex.ru/images/search?lr=213&text=%22John%20Deakin%2Bphotographer%22"
-
--   name: "Ferenc Berko"
-    born: "28.01.1916"
-    died: "18.03.2000"
-    link: "https://yandex.ru/images/search?lr=213&text=%22Ferenc%20Berko%20photographer%22"
 
 -   name: "Dmitri Debabov"
     name2nd: "(Дмитрий Дебабов)"
@@ -653,11 +643,6 @@
     born: "2.07.1894"
     died: "28.09.1985"
     link: "https://yandex.ru/images/search?lr=213&text=%22Andre%20Kertesz%2Bphotographer%22"
-
--   name: "Gregory Crewdson"
-    born: "26.09.1962"
-    died: ""
-    link: "https://yandex.ru/images/search?lr=213&text=%22Gregory%20Crewdson%2Bphotographer%22"
 
 -   name: "Evgeny Khaldei"
     name2nd: "(Евгений Халдей)"
@@ -1251,11 +1236,6 @@
     died: "5.06.1964"
     link: "https://yandex.ru/images/search?lr=213&text=%22%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9%20%D0%A1%D0%B2%D0%B8%D1%89%D0%BE%D0%B2-%D0%9F%D0%B0%D0%BE%D0%BB%D0%B0%2B%D1%84%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%22"
 
--   name: "Paul Strand"
-    born: "16.10.1890"
-    died: "31.03.1976"
-    link: "https://yandex.ru/images/search?lr=213&text=%22Paul%20Strand%2Bphotographer%22%20E"
-
 -   name: "Josef Sudek"
     born: "17.03.1896"
     died: "15.09.1976"
@@ -1436,11 +1416,6 @@
     died: ""
     link: "https://yandex.ru/images/search?lr=213&text=John%20Claridge%20photograph"
 
--   name: "John Claridge"
-    born: "1944"
-    died: ""
-    link: "https://yandex.ru/images/search?lr=213&text=John%20Claridge%20photograph"
-
 -   name: "Mert Alaş"
     name2nd: "Marcus Piggott"
     born: "1971"
@@ -1471,11 +1446,6 @@
     born: "1970"
     died: ""
     link: "https://yandex.ru/images/search?lr=213&text=Tim%20Walker%20photograph"
-
--   name: "Paolo Roversi"
-    born: "1947"
-    died: ""
-    link: "https://yandex.ru/images/search?lr=213&text=Paolo%20Roversi%20photograph"
 
 -   name: "Emma Summerton"
     born: "1970"
