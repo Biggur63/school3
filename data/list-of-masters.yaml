@@ -1627,8 +1627,6 @@
     died: ""
     link: "https://yandex.ru/images/search?lr=213&text=Thomas%20Hoepker%20photographer"
 
--   name: "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
-
 -   name: "Guy Le Querrec"
     born: "12.05.1941"
     died: ""
@@ -1640,7 +1638,7 @@
     link: "https://yandex.ru/images/search?lr=213&text=Richard%20Kalvar%20photographer"
 
 -   name: "Gueorgui Pinkhassov"
-    name2nd: "Георгий Пинхасов"
+    name2nd: "(Георгий Пинхасов)"
     born: "12.08.1952"
     died: ""
     link: "https://yandex.ru/images/search?lr=213&text=Gueorgui%20Pinkhassov%20photographer"
