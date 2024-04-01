@@ -1407,7 +1407,7 @@
     link: "https://yandex.ru/images/search?lr=213&text=Joyce%20Tenneson%20photograph"
 
 -   name: "Clive Arrowsmith"
-    born: ""
+    born: "1949"
     died: ""
     link: "https://yandex.ru/images/search?lr=213&text=Clive%20Arrowsmith%20photograph"
 
@@ -1420,7 +1420,7 @@
     name2nd: "Marcus Piggott"
     born: "1971"
     died:   ""
-    burn2nd: "1971"
+    born2nd: "1971"
     died2nd: ""
     link: "https://yandex.ru/images/search?lr=213&text=Mert%20and%20Marcus%20photograph"
 
@@ -1428,7 +1428,7 @@
     name2nd: "Vinoodh Matadin"
     born: "25.09.1963"
     died: ""
-    burn2nd: "29.09.1961"
+    born2nd: "29.09.1961"
     died2nd: ""
     link: "https://yandex.ru/images/search?lr=213&text=Inez%20van%20Lamsweerde%20photograph"
 
@@ -1452,7 +1452,217 @@
     died: ""
     link: "https://yandex.ru/images/search?lr=213&text=Emma%20Summerton%20photograph"
 
+-   name: "Abbas Attar"
+    born: "29.03.1944"
+    died: "25.04.2018"
+    link: "https://yandex.ru/images/search?lr=213&text=Abbas%20Attar%20photographer"
 
+-   name: "Jonas Bendiksen"
+    born: "8.09.1977"
+    died: ""
+    link: "https://yandex.ru/images/search?lr=213&text=Jonas%20Bendiksen%20photographer"
 
+-   name: "Antoine d'Agata"
+    born: "1961"
+    died: ""
+    link: "https://yandex.ru/images/search?lr=213&text=Antoine%20d%27Agata%20photographer"
+
+-   name: "Patrick Zachmann"
+    born: "18.08.1955"
+    died: ""
+    link: "https://yandex.ru/images/search?lr=213&text=Patrick%20Zachmann%20photographer"
+
+-   name: "Eve Arnold"
+    born: "21.04.1912"
+    died: "4.01.2012"
+    link: "https://yandex.ru/images/search?lr=213&text=Eve%20Arnold%20photographer"
+
+-   name: "Bruno Barbey"
+    born: "13.02.1941"
+    died: "9.11.2020"
+    link: "https://yandex.ru/images/search?lr=213&text=Bruno%20Barbey%20photographer"
+
+-   name: "David Hurn"
+    born: "21.07.1934"
+    died: ""
+    link: "https://yandex.ru/images/search?lr=213&text=David%20Hurn%20photographer"
+
+-   name: "Thomas Hoepker"
+    born: "10.06.1936"
+    died: ""
+    link: "https://yandex.ru/images/search?lr=213&text=Thomas%20Hoepker%20photographer"
+
+-   name: "Ian Berry"
+    born: "4.04.1934"
+    died: ""
+    link: "https://yandex.ru/images/search?lr=213&text=Ian%20Berry%20photographer"
+
+-   name: "Philip Jones Griffiths"
+    born: "18.02.1936"
+    died: "19.03.2008"
+    link: "https://yandex.ru/images/search?lr=213&text=Philip%20Jones%20Griffiths%20photographer"
+
+-   name: "Werner Bischof"
+    born: "26.04.1916"
+    died: "16.05.1954"
+    link: "https://yandex.ru/images/search?lr=213&text=Werner%20Bischof%20photographer"
+
+-   name: "Larry Towell"
+    born: "1953"
+    died: ""
+    link: "https://yandex.ru/images/search?lr=213&text=Larry%20Towell%20photographer"
+
+-   name: "Cornell Capa"
+    born: "10.04.1918"
+    died: "23.05.2008"
+    link: "https://yandex.ru/images/search?lr=213&text=Cornell%20Capa%20photographer"
+
+-   name: "Hiroji Kubota"
+    born: "2.08.1939"
+    died: ""
+    link: "https://yandex.ru/images/search?lr=213&text=Hiroji%20Kubota%20photographer"
+
+-   name: "Susan Meiselas"
+    born: "21.06.1948"
+    died: ""
+    link: "https://yandex.ru/images/search?lr=213&text=Susan%20Meiselas%20photographer"
+
+-   name: "Chien-Chi Chang"
+    born: "01.1961"
+    died: ""
+    link: "https://yandex.ru/images/search?lr=213&text=Chien-Chi%20Chang%20photographer"
+
+-   name: "Bruce L. Davidson"
+    born: "5.09.1933"
+    died: ""
+    link: "https://yandex.ru/images/search?lr=213&text=Bruce%20Davidson%20photographer"
+
+-   name: "Carl De Keyzer"
+    born: "27.12.1958"
+    died: ""
+    link: "https://yandex.ru/images/search?lr=213&text=Carl%20De%20Keyzer%20photographer"
+
+-   name: "John Vink"
+    born: "3.02.1948"
+    died: ""
+    link: "https://yandex.ru/images/search?lr=213&text=John%20Vink%20photographer"
+
+-   name: "Harry Gruyaert"
+    born: "25.08.1941"
+    died: ""
+    link: "https://yandex.ru/images/search?lr=213&text=Harry%20Gruyaert%20photographer"
+
+-   name: "Thomas Dworzak"
+    born: "1972"
+    died: ""
+    link: "https://yandex.ru/images/search?lr=213&text=Thomas%20Dworzak%20photographer"
+
+-   name: "Nikos Economopoulos"
+    born: "1953"
+    died: ""
+    link: "https://yandex.ru/images/search?lr=213&text=Nikos%20Economopoulos%20photographer"
+
+-   name: "Paolo Pellegrin"
+    born: "11.03.1964"
+    died: ""
+    link: "https://yandex.ru/images/search?lr=213&text=Paolo%20Pellegrin%20photographer"
+
+-   name: "Ferdinando Scianna"
+    born: "4.07.1943"
+    died: ""
+    link: "https://yandex.ru/images/search?lr=213&text=Ferdinando%20Scianna%20photographer"
+
+-   name: "Stuart Franklin"
+    born: "16.06.1956"
+    died: ""
+    link: "https://yandex.ru/images/search?lr=213&text=Stuart%20Franklin%20photographer"
+
+-   name: "Costa Manos"
+    born: "12.09.1934"
+    died: ""
+    link: "https://yandex.ru/images/search?lr=213&text=Costa%20Manos%20photographer"
+
+-   name: "Eli Reed"
+    born: "4.08.1946"
+    died: ""
+    link: "https://yandex.ru/images/search?lr=213&text=Eli%20Reed%20photographer"
+
+-   name: "Paul Fusco"
+    born: "2.08.1930"
+    died: "15.07.2020"
+    link: "https://yandex.ru/images/search?lr=213&text=Paul%20Fusco%20photographer"
+
+-   name: "Jean Gaumy"
+    born: "28.08.1948"
+    died: ""
+    link: "https://yandex.ru/images/search?lr=213&p=2&rpt=image&serpListType=horizontal&serpid=ez2mhOJorY2raipl77b-Yg&text=Jean%20Gaumy%20photographer"
+
+-   name: "Bruce Gilden"
+    born: "16.10.1946"
+    died: ""
+    link: "https://yandex.ru/images/search?lr=213&text=Bruce%20Gilden%20photographer"
+
+-   name: "Burt Glinn"
+    born: "23.07.1925"
+    died: "9.04.2008"
+    link: "https://yandex.ru/images/search?lr=213&text=Burt%20Glinn%20photographer"
+
+-   name: "Erich Lessing"
+    born: "13.07.1923"
+    died: "29.08.2018"
+    link: "https://yandex.ru/images/search?lr=213&text=Erich%20Lessing%20photographer"
+
+-   name: "Jim Goldberg"
+    born: "3.06.1953"
+    died: ""
+    link: "https://yandex.ru/images/search?lr=213&text=Jim%20Goldberg%20photographer"
+
+-   name: "David Alan Harvey"
+    born: "6.06.1944"
+    died: ""
+    link: "https://yandex.ru/images/search?lr=213&text=David%20Alan%20Harvey%20photographer"
+
+-   name: "Thomas Hoepker"
+    born: "10.06.1936"
+    died: ""
+    link: "https://yandex.ru/images/search?lr=213&text=Thomas%20Hoepker%20photographer"
+
+-   name: "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+
+-   name: "Guy Le Querrec"
+    born: "12.05.1941"
+    died: ""
+    link: "https://yandex.ru/images/search?lr=213&text=Guy%20Le%20Querrec%20photographer"
+
+-   name: "Richard Kalvar"
+    born: "14.11.1944"
+    died: ""
+    link: "https://yandex.ru/images/search?lr=213&text=Richard%20Kalvar%20photographer"
+
+-   name: "Gueorgui Pinkhassov"
+    name2nd: "Георгий Пинхасов"
+    born: "12.08.1952"
+    died: ""
+    link: "https://yandex.ru/images/search?lr=213&text=Gueorgui%20Pinkhassov%20photographer"
+
+-   name: "Trent Parke"
+    born: "20.03.1971"
+    died: ""
+    link: "https://yandex.ru/images/search?lr=213&text=Trent%20Parke%20photographer"
+
+-   name: "Mark Power"
+    born: "24.06.1959"
+    died: ""
+    link: "Mark Power"
+
+-   name: "Wayne F. Miller"
+    born: "19.09.1918"
+    died: "22.05.2013"
+    link: "https://yandex.ru/images/search?lr=213&text=Wayne%20F.%20Miller%20photographer"
+
+-   name: "Lise Sarfati"
+    born: "12.04.1958"
+    died: ""
+    link: "https://yandex.ru/images/search?lr=213&text=Lise%20Sarfati%20photographer"
 
 
