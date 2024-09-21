@@ -1,5 +1,6 @@
 .DS_Store
-public/
+public/*
 npm-debug.log
 /node_modules/*
 exampleSite/.hugo_build.lock
+resourses/*

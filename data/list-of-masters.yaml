@@ -147,7 +147,7 @@
 -   name: "Pierre Boucher"
     born: "29.02.1908"
     died: "27.11.2000"
-    link: "(https://yandex.ru/images/search?lr=213&text=%22Pierre%20Boucher%20photographer%22"
+    link: "https://yandex.ru/images/search?lr=213&text=%22Pierre%20Boucher%20photographer%22"
 
 -   name: "Guy Bourdin"
     born: "2.12.1928"
@@ -335,7 +335,7 @@
 -   name: "Robert Doisneau"
     born: "14.04.1912"
     died: "1.04.1994"
-    link: "(https://yandex.ru/images/search?lr=213&text=%22Robert%20Doisneau%2Bphotographer%22"
+    link: "https://yandex.ru/images/search?lr=213&text=%22Robert%20Doisneau%2Bphotographer%22"
 
 -   name: "Ken Domon"
     born: "25.10.1909"
@@ -940,7 +940,7 @@
 -   name: "Nigel Parry"
     born: "1961"
     died: ""
-    link: "(https://yandex.ru/images/search?lr=213&text=%D0%9D%D0%B0%D0%B9%D0%B4%D0%B6%D0%B5%D0%BB%20%D0%9F%D1%8D%D1%80%D1%80%D0%B8%20photograph"
+    link: "https://yandex.ru/images/search?lr=213&text=%D0%9D%D0%B0%D0%B9%D0%B4%D0%B6%D0%B5%D0%BB%20%D0%9F%D1%8D%D1%80%D1%80%D0%B8%20photograph"
 
 -   name: "Gilles Peress"
     born: "29.12.1946"
@@ -1635,7 +1635,7 @@
 -   name: "Mark Power"
     born: "24.06.1959"
     died: ""
-    link: "Mark Power"
+    link: "https://yandex.ru/images/search?lr=213&text=%22Mark%20Power%20photographer%22"
 
 -   name: "Wayne F. Miller"
     born: "19.09.1918"
