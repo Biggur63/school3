@@ -7,6 +7,60 @@
     weight     = 1
 
 [[main]]
+    name       = "Как устроен курс"
+    url        = "/training/"
+    weight     = 1
+    parent     = "menu.home"
+
+[[main]]
+    name       = "Принципы фотографии и техника съемки"
+    url        = "/technic/"
+    weight     = 2
+    parent     = "menu.home"
+
+[[main]]
+    name       = "Построение кадра и начала композиции"
+    url        = "/composition/"
+    weight     = 3
+    parent     = "menu.home"
+
+[[main]]
+    name       = "Основы цветокоррекции и ретуши"
+    url        = "/imgeditor/"
+    weight     = 4
+    parent     = "menu.home"
+
+[[main]]
+    name       = "Фотосъемка в естественном свете: пленэр"
+    url        = "/plenair/"
+    weight     = 5
+    parent     = "menu.home"
+    
+[[main]]
+    name       = "Студийная съемка: работа с импульсным светом"
+    url        = "/photostudio/"
+    weight     = 6
+    parent     = "menu.home"
+
+[[main]]
+    name       = "Предметная съемка. Макросъемка"
+    url        = "/objectphoto/"
+    weight     = 7
+    parent     = "menu.home"
+
+[[main]]
+    name       = "Интерьерная съемка"
+    url        = "/interiorphoto/"
+    weight     = 8
+    parent     = "menu.home"
+
+[[main]]
+    name       = "Панорамная съемка. Создание сферических панорам"
+    url        = "/pano/"
+    weight     = 9
+    parent     = "menu.home"
+
+[[main]]
     name       = "Мастера фотографии"
     identifier = "menu.invisibility"
     url        = "/invisibility/"

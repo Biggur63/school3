@@ -1,0 +1,10 @@
+weight: 1
+title: "Персональное обучение"
+description: >
+  <ul class="list-style-none">
+    <li>Всё время занятий преподаватель использует только для работы с вами, что позволяет быстро усвоить материал.
+    </li>
+  </ul>
+            
+image: "img/carousel/template-homepage.png"
+href: "/training/"

@@ -1,0 +1,8 @@
+weight: 2
+title: "Эта программа для вас!"
+description: >
+  <p class="list-style-none">
+      Этот фотокурс создан исключительно для тех, кто видит в фотографии свою будущую профессию или стремится к творческому самовыражению.
+  </p>
+image: "img/carousel/template-mac.png"
+href: "/training/"

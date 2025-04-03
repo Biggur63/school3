@@ -1,6 +1,6 @@
 /* Themed colors */
 :root {
-  /* --primary-accent: #38a7bb; */
+  /* --primary-accent: #38a7bb;
   --primary-accent: #2b7886;
   --navbar-border-top: #20616d;
   --button-border: #2a7d8c;
@@ -8,7 +8,16 @@
   --form-shadow: rgba(56, 167, 187, 0.6);
   --pagination-bg: #a7dbe5;
   --link-hover-bg: #2c8494;
-  --navbar-focus: #80cbd9;
+  --navbar-focus: #80cbd9; */
+  --primary-accent: #2b5886;
+  --navbar-border-top: #20466d;
+  --button-border: #2a5a8c;
+  --link-focus: #265280;
+  --form-shadow: rgba(56, 121, 187);
+  --pagination-bg: #a7c6e5;
+  --link-hover-bg: #2c5f94;
+  --navbar-focus: #a7c6e5;
+
 }
 
 /* Номер телефона в TopBar
@@ -351,7 +360,8 @@ ul.list-style-none {
 }
 .navbar ul.dropdown-menu li a {
   position: relative;
-  color: #999999;
+ /* color: #999999; */
+  color: #2b5886;
   font-size: 12px;
   display: block;
   -webkit-transition: all 0.2s ease-out;
@@ -360,7 +370,8 @@ ul.list-style-none {
   left: 0;
 }
 .navbar ul.dropdown-menu li a:hover {
-  color: var(--primary-accent);
+  /* color: var(--primary-accent); */
+  color: #960202;
   text-decoration: none;
   background: none;
   left: 2px;
@@ -3116,11 +3127,13 @@ fieldset[disabled] .btn-template-primary.active {
 }
 @media (max-width: 767px) {
   .navbar-default .navbar-nav .open .dropdown-menu > li > a {
-    color: #555555;
+    /* color: #555555; */
+    color: #2b5886;
   }
   .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover,
   .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
-    color: var(--primary-accent);
+    /* color: var(--primary-accent); */
+    color: #960202;
   }
   .navbar-default .navbar-nav .open .dropdown-menu > .active > a,
   .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover,
