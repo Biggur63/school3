@@ -31,33 +31,39 @@
     parent     = "menu.home"
 
 [[main]]
+    name       = "Визуальное восприятие изображений"
+    url        = "/gestalt/"
+    weight     = 5
+    parent     = "menu.home"
+
+[[main]]
     name       = "Фотосъемка в естественном свете: пленэр"
     url        = "/plenair/"
-    weight     = 5
+    weight     = 6
     parent     = "menu.home"
     
 [[main]]
     name       = "Студийная съемка: работа с импульсным светом"
     url        = "/photostudio/"
-    weight     = 6
+    weight     = 7
     parent     = "menu.home"
 
 [[main]]
     name       = "Предметная съемка. Макросъемка"
     url        = "/objectphoto/"
-    weight     = 7
+    weight     = 8
     parent     = "menu.home"
 
 [[main]]
     name       = "Интерьерная съемка"
     url        = "/interiorphoto/"
-    weight     = 8
+    weight     = 9
     parent     = "menu.home"
 
 [[main]]
     name       = "Панорамная съемка. Создание сферических панорам"
     url        = "/pano/"
-    weight     = 9
+    weight     = 10
     parent     = "menu.home"
 
 [[main]]

@@ -117,7 +117,7 @@
     subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
 
 [see_more]
-    enable = true
+    enable = false
     icon = "far fa-file-alt"
     title = "Информация об обучении"
     subtitle = "Для получения полной информации звоните **+7 919 874 20 24**"
@@ -133,7 +133,7 @@
     subtitle = ""
 
 [recent_posts]
-    enable = true
+    enable = false
     title = "Эффективность курса"
     subtitle = "Учебный план формируется для каждого студента индивидуально, с учетом уровня его подготовки. Акцент обучения делается на практических заданиях. Бесплатная консультационная поддержка не ограничена временем и продолжается пока в ней есть необходимость."
     hide_summary = false
