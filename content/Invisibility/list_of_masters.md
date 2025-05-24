@@ -222,7 +222,7 @@ title: "Мастера фотографии"
 1. [**Willy Ronis** *(14.08.1910─12.09.2009)*](https://yandex.ru/images/search?lr=213&text=%22Willy%20Ronis%2Bphotographer%22)
 1. [**Arthur Rothstein** *(17.07.1915─1985)*](https://yandex.ru/images/search?lr=213&text=%22Arthur%20Rothstein%2Bphotographer%22)
 1. [**Paolo Roversi** *(25.09.1947─)*](https://yandex.ru/images/search?lr=213&text=%22Paolo%20Roversi%2Bphotographer%22)
-1. [**Sebastiao Salgado** *(8.02.1944─)*](https://yandex.ru/images/search?lr=213&text=%22Sebastiao%20Salgado%2Bphotographer%22)
+1. [**Sebastiao Salgado** *(8.02.1944─23.05.2025)*](https://yandex.ru/images/search?lr=213&text=%22Sebastiao%20Salgado%2Bphotographer%22)
 1. [**Erich Salomon** *(28.04.1886─7.07.1944)*](https://yandex.ru/images/search?lr=213&text=%22Erich%2BSalomon%2Bphotographer%22)
 1. [**August Sander** *(17.11.1876─20.04.1964)*](https://yandex.ru/images/search?lr=213&text=%22August%20Sander%2Bphotographer%22)
 1. [**Jan Saudek** *(13.05.1935─)*](https://yandex.ru/images/search?lr=213&text=%22Jan%20Saudek%2Bphotographer%22)
